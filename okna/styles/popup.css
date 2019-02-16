@@ -1,0 +1,30 @@
+  .popup__overlay{
+    display:none;
+  }
+  
+  /*.bg__popup{
+     /* top:0;
+		height:100%;
+  bottom:0;
+  left:0;
+  right:0;
+  position:absolute;
+  z-index:120;
+		display:none;}*/
+  
+  
+  .popup__overlay.active{
+    
+  height:auto;
+  z-index:100;
+  top:30%;
+  left:42%;
+  position:absolute;
+  margin:auto;
+  display:block;
+   background-color: #c5c5c5;
+    border-radius:5px;
+    padding:25px;
+  }
+  
+  
