@@ -1,0 +1,253 @@
+@import url(https://fonts.googleapis.com/css?family=Caveat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Pacifico:400);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Marck+Script:400);
+
+
+
+
+
+
+
+.btn.btn-primary {
+  background-color: #aa3b45;
+  border-color: #aa3b45;
+}
+.btn.btn-primary:hover,
+.btn.btn-primary:focus,
+.btn.btn-primary.focus,
+.btn.btn-primary:active,
+.btn.btn-primary.active {
+  background-color: #111111;
+  border-color: #111111;
+}
+.btn.btn-info {
+  background-color: #aa3b45;
+  border-color: #aa3b45;
+}
+.btn.btn-info:hover,
+.btn.btn-info:focus,
+.btn.btn-info.focus,
+.btn.btn-info:active,
+.btn.btn-info.active {
+  background-color: #71272e;
+  border-color: #71272e;
+}
+.btn.btn-success {
+  background-color: #dbdbdb;
+  border-color: #dbdbdb;
+}
+.btn.btn-success:hover,
+.btn.btn-success:focus,
+.btn.btn-success.focus,
+.btn.btn-success:active,
+.btn.btn-success.active {
+  background-color: #b5b5b5;
+  border-color: #b5b5b5;
+}
+.btn.btn-warning {
+  background-color: #aa3b45;
+  border-color: #aa3b45;
+}
+.btn.btn-warning:hover,
+.btn.btn-warning:focus,
+.btn.btn-warning.focus,
+.btn.btn-warning:active,
+.btn.btn-warning.active {
+  background-color: #71272e;
+  border-color: #71272e;
+}
+.btn.btn-danger {
+  background-color: #000000;
+  border-color: #000000;
+}
+.btn.btn-danger:hover,
+.btn.btn-danger:focus,
+.btn.btn-danger.focus,
+.btn.btn-danger:active,
+.btn.btn-danger.active {
+  background-color: #000000;
+  border-color: #000000;
+}
+.text-primary {
+  color: #aa3b45 !important;
+}
+.text-info {
+  color: #aa3b45 !important;
+}
+.text-success {
+  color: #dbdbdb !important;
+}
+.text-warning {
+  color: #aa3b45 !important;
+}
+.text-danger {
+  color: #000000 !important;
+}
+a {
+  color: #aa3b45;
+}
+a:hover,
+a:focus,
+a.focus,
+a:active,
+a.active {
+  color: #71272e;
+}
+.mbr-primary-color,
+.s2-box:hover .s2-box-ico div,
+.content8 .nav-tabs > li > a::after,
+.extFooter1 ul li:before,
+.mbr-gallery-filter li:hover,
+.extFooter1 ul li a:hover {
+  color: #aa3b45 !important;
+}
+.navbar-nav > li > a:hover,
+.dropdown1-menu > li > a:hover,
+.nav > li > a:hover,
+.nav > li > a:focus,
+.nav .open > a,
+.nav .open > a:hover,
+.nav .open > a:focus,
+.dropdown-menu a:hover,
+.nav-tabs > li.active > a,
+.content8 .nav-tabs > li.active > a {
+  color: #aa3b45 !important;
+}
+.cta-wrap.bg-dark .cta-btn.btn-default:hover,
+.cta-wrap .cta-btn.btn-default:hover,
+.mbr-primary-bgColor,
+.nav-tabs > li > a::after,
+.services-s5 .service-content:hover i {
+  background: #aa3b45 !important;
+}
+blockquote {
+  border-left-color: #aa3b45;
+}
+.process-step2 .btn-circle:hover,
+.process-step2 .btn-info,
+.mbr-slider .carousel-control:hover {
+  background: #aa3b45 !important;
+  border-color: #aa3b45 !important;
+}
+.services-s5 .service-content:hover i:after,
+.cta-wrap.bg-dark .cta-btn:hover,
+.cta-wrap.bg-primary .cta-btn:hover,
+.nav-link.btn.btn-primary:hover {
+  border-color: #aa3b45;
+}
+.mbr-gallery-filter li.active {
+  color: #aa3b45;
+  border-color: #aa3b45;
+}
+.cta-wrap .cta-btn.btn-default:hover,
+.cta-wrap.bg-dark .cta-btn.btn-default:hover {
+  background: #aa3b45;
+  border-color: #aa3b45;
+}
+.mbr-title-font,
+.mbr-gallery-filter li {
+  font-family: 'Caveat', handwriting !important;
+}
+.mbr-text-font,
+p {
+  font-family: 'Marck Script', handwriting !important;
+}
+#dropdown-menu-12 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-12 .nav .link,
+#dropdown-menu-12 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Caveat', handwriting;
+}
+#dropdown-menu-12 .navbar,
+#dropdown-menu-12 .dropdown-menu {
+  background: #333;
+}
+#dropdown-menu-12 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-12 .dropdown-menu a:hover,
+#dropdown-menu-12 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-12 .navbar-toggler {
+  color: #ffffff;
+}
+#dropdown-menu-12 .btn {
+  font-size: 15px;
+}
+#header6-2 H3 {
+  text-align: center;
+}
+#header6-2 B {
+  font-size: 72px;
+  font-family: 'Caveat', handwriting;
+  color: #aa3b45;
+}
+#header6-2 P {
+  text-align: center;
+  color: #ffffff;
+  font-size: 36px;
+  font-family: 'Pacifico', handwriting;
+}
+#header6-2 .btn {
+  font-size: 20px;
+}
+#header9-1d H3 {
+  font-family: 'Lora', serif;
+  font-size: 72px;
+}
+#header9-1d P {
+  font-size: 36px;
+}
+#pricing-table1-1a SPAN {
+  font-size: 46px;
+}
+#pricing-table1-1a H1 {
+  font-size: 48px;
+}
+#pricing-table1-1a P {
+  font-size: 20px;
+  font-family: 'PT Sans', sans-serif;
+  text-align: center;
+}
+#pricing-table1-1a H3 {
+  font-size: 22px;
+  text-align: center;
+}
+#pricing-table1-1a UL {
+  font-size: 17px;
+}
+#header22-t H4 {
+  font-size: 32px;
+  text-align: left;
+}
+#header22-t P {
+  font-size: 20px;
+  text-align: left;
+}
+#header22-t i {
+  color: #aa3b45 !important;
+}
+#slider-1p P {
+  font-size: 36px;
+}
+#msg-box1-16 H2 {
+  color: #ffffff;
+  font-size: 36px;
+}
+#msg-box1-16 P {
+  font-size: 22px;
+}
+#footer1-k DIV {
+  font-size: 16px;
+}
+#contacts1-1s DIV {
+  color: #dbdbdb;
+  font-size: 22px;
+}
+#contacts1-1s H1 {
+  color: #aa3b45;
+}
